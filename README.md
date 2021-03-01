@@ -1,12 +1,3 @@
-<style>
-body{ /* Normal  */
-      font-size: 14px;
-      text-align: justify;
-  }
-td {  /* Table  */
-  font-size: 8px;
-}
-</style>
 
 Exploratory analysis
 ====================
